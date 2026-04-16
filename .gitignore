@@ -1,0 +1,16 @@
+# Build outputs
+build/
+target/
+.gradle/
+*.jar
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Environment
+.env
+.env.local
+credentials.conf
+secrets.conf
